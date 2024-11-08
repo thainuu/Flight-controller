@@ -1,2 +1,2 @@
 # Schematic diagram EasyEDA:
-(https://github.com/thainuu/Flight-controller/blob/main/Schematic%20diagram.PNG)
+![image](https://github.com/user-attachments/assets/8de02f5b-67c2-45a1-9a02-71c06be8a477)
