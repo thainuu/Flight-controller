@@ -1,5 +1,5 @@
 # Schematic diagram EasyEDA:
-![image](https://github.com/user-attachments/assets/4a1cb632-fe92-4361-9327-9d1f98a0c151)
+![image](https://github.com/user-attachments/assets/94e62389-4456-40e2-ae42-4af75e3a6938)
 # PCB:
 ## Toplayer
 ![image](https://github.com/user-attachments/assets/5fad0e02-83e4-4b5a-bfc9-270fb58fa0ea)
